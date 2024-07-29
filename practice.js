@@ -5,3 +5,6 @@ function practicegit(){
 function addingfunc(){
     console.log('adding more functions')
 }
+ function add(){
+    console.log('hello')
+ }
